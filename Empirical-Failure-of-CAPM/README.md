@@ -25,17 +25,17 @@ This project fully replicates the standard workflow of modern empirical financia
 
 ![Security Market Line](images/sml_plot.png)
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
-1. **Clone the repository**
+# 1. Clone the repository
 
-git clone <https://github.com/2002dangquan/PyCAPM-US.git>
-cd PyCAPM-US
+git clone https://github.com/2002dangquan/Asset-Pricing.git/Empirical-Failure-of-CAPM.git
+cd Asset-Pricing/Empirical-Failure-of-CAPM
 
-2. **Install dependencies**
+# 2. Install dependencies
 pip install -r requirements.txt
 
-3. **Execute the code**
-Open src/main-code.ipynb using Jupyter Notebook or Jupyter Lab, and run all cells to reproduce the empirical results and visualizations.
+# 3. Execute the code
+Open `src/Empirical-Failure-of-CAPM.ipynb` using Jupyter Notebook or Jupyter Lab, and run all cells to reproduce the empirical results and visualizations.
 ```
